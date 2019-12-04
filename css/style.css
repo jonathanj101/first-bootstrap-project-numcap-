@@ -56,3 +56,10 @@ header h2 {
 .modal {
   margin-left: 30%;
 }
+*/
+
+#carouselButton {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
