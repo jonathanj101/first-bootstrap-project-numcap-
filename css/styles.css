@@ -52,3 +52,11 @@ h2 {
   position: absolute;
   right: 0;
   bottom: 0; }
+
+#reserveModal .modal-header {
+  color: white;
+  background-color: #17A2BB; }
+
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }

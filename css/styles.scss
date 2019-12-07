@@ -1,3 +1,4 @@
+$color-teal: #17A2BB;
 $color-primary: #3046C5;
 $color-secondary: #5637dd;
 $color-pale: #CEC8FF;
@@ -74,4 +75,19 @@ h2 {
   position: absolute;
   right: 0;
   bottom: 0;
+}
+
+
+#reserveModal {
+  .modal-header {
+      color: white;
+      background-color: $color-teal;
+  }
+}
+
+#loginModal {
+  .modal-header {
+    background-color: $color-mid;
+    color: white;
+  }
 }
